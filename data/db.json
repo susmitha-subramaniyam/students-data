@@ -1,0 +1,25 @@
+{
+  "students": [
+    {
+      "id": 2,
+      "name": "Arun",
+      "email": "arun@gmail.com",
+      "department": "CSE",
+      "status": "Inactive"
+    },
+    {
+      "id": 3,
+      "name": "sus",
+      "email": "susmithamano234@gmail.com",
+      "department": "ECE",
+      "status": "Active"
+    },
+    {
+      "id": 4,
+      "name": "sus",
+      "email": "susmithamano234@gmail.com",
+      "department": "ECE",
+      "status": "Active"
+    }
+  ]
+}
